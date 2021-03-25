@@ -747,7 +747,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gerardo Torres
 1. Gerard Ryan
 1. Germán Poo-Caamaño (GNOME)
-1. Gerry Demaret
 1. Gertjan Lettink a.k.a. Knurpht
 1. Gianluca Bine
 1. Gianni Ceccarelli
@@ -874,6 +873,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. James Cochran
 1. James Colliander (2i2c.org Co-Founder, Callysto.ca Co-Founder, Syzygy.ca Co-Founder, PIMS Director)
 1. James Daly
+1. James Henstridge (Ubuntu developer, former GNOME Foundation director)
 1. James 'jspc' Condron
 1. James Kruth
 1. James LaPlaine (@csangos)
@@ -1586,7 +1586,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Robbie Harwood (Fedora developer)
 1. Robert Barat
 1. Robert Berg
-1. Robert C Jennings (Ubuntu member, kernel dev)
 1. Robert Foss (Linux kernel dev)
 1. Robert J. Hansen (formerly of GnuPG)
 1. Robert Joslyn
